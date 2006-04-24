@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Mediawiki parser for Text_Wiki
 Summary(pl):	%{_pearname} - parser Mediawiki dla Text_Wiki
 Name:		php-pear-%{_pearname}
-Version:	0.0.1
+Version:	0.1.0
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	83d0fb5d0f777ce378a7240f3d8bc745
+# Source0-md5:	f2a45cea901f4ee5301850bb7d029616
 URL:		http://pear.php.net/package/Text_Wiki_Mediawiki/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
