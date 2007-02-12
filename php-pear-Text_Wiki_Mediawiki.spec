@@ -5,7 +5,7 @@
 %define		_pearname	Text_Wiki_Mediawiki
 
 Summary:	%{_pearname} - Mediawiki parser for Text_Wiki
-Summary(pl):	%{_pearname} - parser Mediawiki dla Text_Wiki
+Summary(pl.UTF-8):   %{_pearname} - parser Mediawiki dla Text_Wiki
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1
@@ -29,9 +29,9 @@ http://meta.wikimedia.org/wiki/Help:Editing#The_wiki_markup
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Ta klasa przetwarza oznaczenia Mediawiki w celu podzia≥u tekstu z
-przeznaczeniem dla Text_Wiki. Opis sk≥adni moøna znaleºÊ pod adresem:
+%description -l pl.UTF-8
+Ta klasa przetwarza oznaczenia Mediawiki w celu podzia≈Çu tekstu z
+przeznaczeniem dla Text_Wiki. Opis sk≈Çadni mo≈ºna znale≈∫ƒá pod adresem:
 http://meta.wikimedia.org/wiki/Help:Editing#The_wiki_markup
 
 Ta klasa ma w PEAR status: %{_status}.
