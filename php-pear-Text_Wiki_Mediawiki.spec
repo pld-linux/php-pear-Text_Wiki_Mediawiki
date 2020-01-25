@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		alpha
 %define		_pearname	Text_Wiki_Mediawiki
 Summary:	%{_pearname} - Mediawiki parser for Text_Wiki
