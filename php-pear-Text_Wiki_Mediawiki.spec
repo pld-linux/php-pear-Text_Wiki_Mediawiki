@@ -4,7 +4,7 @@ Summary:	%{_pearname} - Mediawiki parser for Text_Wiki
 Summary(pl.UTF-8):	%{_pearname} - parser Mediawiki dla Text_Wiki
 Name:		php-pear-%{_pearname}
 Version:	0.2.0
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
